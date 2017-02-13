@@ -33,8 +33,8 @@ ul {
 #squiggle {
 	width: 13%;
 	position: absolute;
-	margin-left: 65px;
-	margin-top: 15px;
+	margin-left: 5%;
+	margin-top: 1%;
 }
 
 #e_about {
@@ -88,7 +88,7 @@ ul {
 #stickynote {
 	width: 40px;
 	position: absolute;
-	margin-left:670px;
+	margin-left:71%;
 	margin-top: 15px;
 }
 .element {
@@ -109,7 +109,7 @@ ul {
 .body {
 	margin-left: 150px;
 	background-color: #EAFFF0;
-	max-width: 500px;
+	max-width: 60%;
 	max-height: 120px;
 	padding: 10px;
 	font-size: 12px;
