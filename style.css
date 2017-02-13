@@ -1,0 +1,121 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+html { 
+	/*background: url(images/3.jpg) no-repeat center center fixed; */
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+h1 {
+	font-size: 26px;
+}
+ul {
+  list-style-type: none;
+  width: 100%;
+  text-align: center;
+}
+.navbar {
+	width: 18%;
+	background-color: #AA6685;
+	height: 100%;
+	display: block;
+	padding: 20px;
+}
+
+#squiggle {
+	width: 13%;
+	position: absolute;
+	margin-left: 65px;
+	margin-top: 15px;
+}
+
+#e_about {
+	color: white;
+}
+
+#e_contact {
+	color: white;
+}
+
+#title {
+	color: white;
+	font-family: 'Arimo', sans-serif;
+	font-size: 25px;
+	text-align: center;
+	margin-left: 30px;
+	font-weight: 700;
+	width: 70%;
+	margin-top: 30%;
+}
+
+.about {
+	color: white;
+	font-family: 'Arimo', sans-serif;
+	font-size: 15px;
+	margin-left: 40px;
+	font-weight: 400;
+	margin-top: 30%;
+	width: 75%;
+	font-weight: 700;
+}
+
+.contact {
+	color: white;
+	font-family: 'Arimo', sans-serif;
+	font-size: 15px;
+	margin-left: 40px;
+	font-weight: 400;
+	margin-top: 20px;
+	width: 75%;
+	font-weight: 700;
+}
+.main {
+	margin-left: 27%;
+	display: inline-block;
+	position: absolute;
+	top: 0;
+	font-family: 'Playfair Display', serif;
+}
+
+#stickynote {
+	width: 40px;
+	position: absolute;
+	margin-left:670px;
+	margin-top: 15px;
+}
+.element {
+	margin: 20px;
+	padding: 10px;
+	margin-left: 70px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.date {
+	width: 150px;
+	float: left;
+	font-family: 'Arimo', sans-serif;
+	margin-top: 10px;
+	font-size: 16px;
+	font-weight: 700;
+}
+.body {
+	margin-left: 150px;
+	background-color: #EAFFF0;
+	max-width: 500px;
+	max-height: 120px;
+	padding: 10px;
+	font-size: 12px;
+	padding: 20px;
+}
+
+.title {
+	margin-bottom: 10px;
+}
