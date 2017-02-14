@@ -28,12 +28,13 @@ ul {
 	height: 100%;
 	display: block;
 	padding: 20px;
+	position:fixed;
 }
 
 #squiggle {
 	width: 13%;
 	position: absolute;
-	margin-left: 5%;
+	margin-left: 4.5%;
 	margin-top: 1%;
 }
 
@@ -50,7 +51,7 @@ ul {
 	font-family: 'Arimo', sans-serif;
 	font-size: 25px;
 	text-align: center;
-	margin-left: 30px;
+	margin-left: 10%;
 	font-weight: 700;
 	width: 70%;
 	margin-top: 30%;
@@ -60,7 +61,7 @@ ul {
 	color: white;
 	font-family: 'Arimo', sans-serif;
 	font-size: 15px;
-	margin-left: 40px;
+	margin-left: 14%;
 	font-weight: 400;
 	margin-top: 30%;
 	width: 75%;
@@ -71,7 +72,7 @@ ul {
 	color: white;
 	font-family: 'Arimo', sans-serif;
 	font-size: 15px;
-	margin-left: 40px;
+	margin-left: 14%;
 	font-weight: 400;
 	margin-top: 20px;
 	width: 75%;
@@ -88,13 +89,13 @@ ul {
 #stickynote {
 	width: 40px;
 	position: absolute;
-	margin-left:71%;
+	margin-left:72%;
 	margin-top: 15px;
 }
 .element {
 	margin: 20px;
 	padding: 10px;
-	margin-left: 70px;
+	margin-left: 5%;
 	margin-top: 40px;
 	margin-bottom: 40px;
 }
@@ -110,7 +111,7 @@ ul {
 	margin-left: 150px;
 	background-color: #EAFFF0;
 	max-width: 60%;
-	max-height: 120px;
+	max-height: 5%;
 	padding: 10px;
 	font-size: 12px;
 	padding: 20px;
