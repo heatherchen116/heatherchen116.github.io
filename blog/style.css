@@ -112,9 +112,13 @@ ul {
 	background-color: #EAFFF0;
 	max-width: 60%;
 	max-height: 5%;
-	padding: 10px;
 	font-size: 12px;
-	padding: 20px;
+	padding:20px;
+}
+
+#list {
+	text-align: left;
+	padding: 10px;
 }
 
 .title {
