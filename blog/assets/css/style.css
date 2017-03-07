@@ -22,6 +22,10 @@ ul {
   width: 100%;
   text-align: center;
 }
+
+#routine {
+	margin-left: 10px;
+}
 .navbar {
 	width: 18%;
 	background-color: #AA6685;
