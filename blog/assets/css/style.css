@@ -94,7 +94,7 @@ ul {
 	width: 40px;
 	position: absolute;
 	margin-left:72%;
-	margin-top: 15px;
+	margin-top: -30px;
 }
 .element {
 	margin: 20px;
@@ -107,17 +107,19 @@ ul {
 	width: 150px;
 	float: left;
 	font-family: 'Arimo', sans-serif;
-	margin-top: 10px;
-	font-size: 16px;
+	margin-top: 50px;
+	font-size: 15px;
 	font-weight: 700;
 }
 .body {
 	margin-left: 150px;
-	background-color: #EAFFF0;
+	margin-top: 30px;
+	background-color: #FAF3FF;
 	max-width: 60%;
 	max-height: 5%;
 	font-size: 12px;
 	padding:20px;
+	line-height: 200%;
 }
 
 #list {
@@ -125,6 +127,13 @@ ul {
 	padding: 10px;
 }
 
+.text {
+	font-family: 'Raleway';
+}
 .title {
-	margin-bottom: 10px;
+	font-size: 12px;
+	margin-bottom: 5px;
+	font-family: "Playfair Display";
+	font-weight: 700;
+	text-align: center;
 }
