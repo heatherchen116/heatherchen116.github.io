@@ -122,6 +122,22 @@ ul {
 	line-height: 200%;
 }
 
+/*.body .postgrad { 
+	background-color: #73BA9B !important;
+}
+*/
+
+.postgrad {
+	margin-left: 150px;
+	margin-top: 30px;
+	background-color: #D4F7DA;
+	max-width: 60%;
+	max-height: 5%;
+	font-size: 12px;
+	padding:20px;
+	line-height: 200%;
+}
+
 #list {
 	text-align: left;
 	padding: 10px;
