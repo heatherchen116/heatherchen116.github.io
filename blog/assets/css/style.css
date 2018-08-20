@@ -138,10 +138,11 @@ ul {
 	line-height: 200%;
 }
 
-#list {
+.list {
 	text-align: left;
 	padding: 10px;
 }
+
 
 .text {
 	font-family: 'Raleway';
